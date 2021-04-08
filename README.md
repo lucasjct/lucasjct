@@ -2,8 +2,9 @@
 ***  
 #### Quality Assurance  
 
-Currently I'am studing Python.  
-My focus is understend frameworks as [Selenium](https://selenium-python.readthedocs.io/), [RobotFramework](https://robotframework.org/) to apply in tests automatization.  
+- 🌱 I’m currently (maybe forever) learning Python.  
+- 🔭 I’m currently working with frameworks as [Selenium](https://selenium-python.readthedocs.io/) and [RobotFramework](https://robotframework.org/) to apply in tests automatization.    
+
 <!--
 **lucasjct/lucasjct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
