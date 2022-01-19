@@ -2,6 +2,10 @@
 ***  
 #### Quality Assurance  
 
+- 🔭 I’m currently working on automated and manual tests.
+- 🌱 I’m currently learning DevOps, focused in cloud, pipelines, containers.
+- 📫 How to reach me: email: lucasjcteixeira@gmail.com | linkedIn: https://www.linkedin.com/in/lucas-teixeira-analista-de-testes/
+
  
 <!--
 **lucasjct/lucasjct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
