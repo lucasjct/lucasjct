@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on automated and manual tests.
 - 🌱 I’m currently learning DevOps, focused in cloud, pipelines, containers.
-- 📫 How to reach me: email: lucasjcteixeira@gmail.com | linkedIn: https://www.linkedin.com/in/lucas-teixeira-analista-de-testes/
+- 📫 How to reach me:   
+__email__: lucasjcteixeira@gmail.com | [LinkedIn](https://www.linkedin.com/in/lucas-teixeira-analista-de-testes/, "Lucas Teixeira - LinkedIn")
 
  
 <!--
