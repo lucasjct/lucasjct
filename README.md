@@ -2,7 +2,6 @@
 ***  
 #### Quality Assurance  
 
-- 🔭 I’m currently working on automated and manual tests.
 - 🌱 I’m currently learning DevOps, focused in cloud, pipelines, containers.
 - 📫 How to reach me:
 
